@@ -1,0 +1,12 @@
+# The router will enter the rommon mode
+# Press ? to check the command
+?
+tftpdnld
+IP_ADDRESS=192.168.0.1
+IP_SUBNET_MASK=255.255.255.0
+DEFAULT_GATEWAY=192.168.0.1
+TFTP_SERVER=192.168.0.20
+TFTP_FILE=c2800nm-advipservicesk9-mz.124-15.T1.bin
+tftpdnld
+# Press y to continue
+# The recovery will start
